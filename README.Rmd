@@ -1,0 +1,9 @@
+---
+title: My first git repo
+author: Mele
+output: github_document
+---
+
+# My first commit
+
+Here is some text.
