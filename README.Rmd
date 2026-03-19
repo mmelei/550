@@ -11,6 +11,8 @@ text for another commit.
 
 __text for test branch.__
 
+__text for test branch.__
+
 # My second commit
 
 More text.
