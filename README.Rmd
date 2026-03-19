@@ -9,6 +9,8 @@ output: github_document
 Here is some text. more text for additional commit.
 text for another commit.
 
+__text for test branch.__
+
 # My second commit
 
 More text.
